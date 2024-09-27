@@ -2,6 +2,7 @@ package br.com.alura.screenmatch.model;
 
 import jakarta.persistence.*;
 import lombok.*;
+import org.springframework.web.bind.annotation.RequestMapping;
 
 import java.util.ArrayList;
 import java.util.List;
